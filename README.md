@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-[Live Website ](https://khan1792002.github.io/Fit-club/)
+[Live Website ](https://mkhan1792.github.io/Fit-club/)
 
 ### `npm start`
 
